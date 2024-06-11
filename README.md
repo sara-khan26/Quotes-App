@@ -15,4 +15,4 @@ This project, built by Bluelearn x Era of No-Code, guides in creating a quote-sh
 
 # Link to the app
 
-To use the Quotes app, simply [click here][(https://quotes-app-64374.bubbleapps.io/version-test)] to visit the deployed website and start adding Quotes to your dashboard.
+To use the Quotes app, simply [click here](https://quotes-app-64374.bubbleapps.io/version-test) to visit the deployed website and start adding Quotes to your dashboard.
